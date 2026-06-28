@@ -1,0 +1,1 @@
+timestamp,ticker,lstm_score,sent_score,regime_label,risk_score,fusion_confidence,final_decision,price_at_decision,evaluated,actual_price_t5,price_change_pct,lstm_grade,sent_grade,regime_grade,hypothetical_buy_pnl,hypothetical_sell_pnl,optimal_decision,regret_score,llm_retrospective,asc_score,asc_reliable

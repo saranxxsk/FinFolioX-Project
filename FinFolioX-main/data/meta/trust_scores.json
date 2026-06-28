@@ -1,0 +1,24 @@
+{
+  "technical": 1.0,
+  "sentiment": 1.0,
+  "regime": 1.0,
+  "last_updated": "2026-04-24 03:18:32",
+  "evaluation_count": 0,
+  "regime_trust": {
+    "Bull": {
+      "technical": 1.0,
+      "sentiment": 1.0,
+      "regime": 1.0
+    },
+    "Bear": {
+      "technical": 1.0,
+      "sentiment": 1.0,
+      "regime": 1.0
+    },
+    "Sideways": {
+      "technical": 1.0,
+      "sentiment": 1.0,
+      "regime": 1.0
+    }
+  }
+}
